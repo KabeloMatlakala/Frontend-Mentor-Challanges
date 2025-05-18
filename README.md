@@ -40,10 +40,11 @@ Each branch typically includes:
 
 |   Challenge Name	|   Branch	|   Live Demo |
 |---|---|---|
-|   QR Code Component |   qr-code-component |	https://km-qr-code-component.netlify.app/ |
-|   Blog Preview Card |   blog-preview-card |	Coming soon |
-|   Social Links Profile |   social-links-profile |	Coming soon |
-|   Recipe Page |   recipe-page |	Coming soon |
+| **Getting Started** | 
+| QR Code Component | qr-code-component |	https://km-qr-code-component.netlify.app/ |
+| Blog Preview Card | blog-preview-card |	https://kp-blog-preview-card.netlify.app/ |
+| Social Links Profile | social-links-profile |	https://km-social-links-profile.netlify.app/ |
+| Recipe Page | recipe-page |	https://kp-recipe-page.netlify.app/ |
 
 More coming soon...
 
