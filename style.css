@@ -28,22 +28,6 @@ body {
     justify-content: center;
 }
 
-.recipe-card {
-    padding: 1.25rem;
-    background-color: var(--white);
-    max-width: 736px;
-    border-radius: 1rem;
-    overflow: hidden;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-}
-
-.recipe-img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 0.5rem;
-}
-
 .content {
     padding: 2rem;
 }
@@ -58,24 +42,6 @@ h1 {
 .description {
     margin-bottom: 1.5rem;
     line-height: 1.6;
-}
-
-.prep-time {
-    background-color: var(--rose-50);
-    border-radius: 0.5rem;
-    padding: 1.5rem;
-    margin-bottom: 2rem;
-}
-
-.prep-time h2 {
-    color: var(--rose-800);
-    font-size: 1.25rem;
-    font-weight: 600;
-    margin-bottom: 0.75rem;
-}
-
-.prep-time ul {
-    list-style: disc inside;
 }
 
 .section {
@@ -130,8 +96,7 @@ td:last-child {
         font-size: 2rem;
     }
 
-    .section h2,
-    .prep-time h2 {
+    .section h2 {
         font-size: 1.5rem;
     }
 }
