@@ -45,6 +45,8 @@ Each branch typically includes:
 | Blog Preview Card | blog-preview-card |	https://kp-blog-preview-card.netlify.app/ |
 | Social Links Profile | social-links-profile |	https://km-social-links-profile.netlify.app/ |
 | Recipe Page | recipe-page |	https://kp-recipe-page.netlify.app/ |
+| **Responsive Design Fundamentals" |
+| Product Preview Card Component | product-preview-card-component |	https://km-social-links-profile.netlify.app/ |
 
 More coming soon...
 
