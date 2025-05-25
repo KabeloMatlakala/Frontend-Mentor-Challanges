@@ -41,19 +41,19 @@ Each branch typically includes:
 |   Challenge Name	|   Branch	|   Live Demo |
 |---|---|---|
 | **Getting Started** | 
-| QR Code Component | qr-code-component |	https://km-qr-code-component.netlify.app/ |
-| Blog Preview Card | blog-preview-card |	https://kp-blog-preview-card.netlify.app/ |
-| Social Links Profile | social-links-profile |	https://km-social-links-profile.netlify.app/ |
-| Recipe Page | recipe-page |	https://kp-recipe-page.netlify.app/ |
+| QR Code Component | qr-code-component |	[QR Code Component](https://kpm-frontend-mentor-challange.netlify.app/getting_started/qr-code-component/) |
+| Blog Preview Card | blog-preview-card |	[Blog Preview Card](https://kpm-frontend-mentor-challange.netlify.app/getting_started/blog-preview-card/) |
+| Social Links Profile | social-links-profile |	[Social Links Profile](https://kpm-frontend-mentor-challange.netlify.app/getting_started/social-links-profile/) |
+| Recipe Page | recipe-page |	[Recipe Page](https://kpm-frontend-mentor-challange.netlify.app/getting_started/recipe-page/) |
 | **Responsive Design Fundamentals** |
-| Product Preview Card Component | product-preview-card-component |	... |
-| Four Card  Feature Section | four-card-feature-section |	... |
+| Product Preview Card Component | product-preview-card-component |	[Product Preview Card Component](https://kpm-frontend-mentor-challange.netlify.app/responsive_designs/product-preview-card-component/) |
+| Four Card  Feature Section | four-card-feature-section |	[Four Card  Feature Section](https://kpm-frontend-mentor-challange.netlify.app/responsive_designs/four-card-feature-section/) |
 
 More coming soon...
 
 ### 📌 About Me
 Hi! I'm Kabelo Peter Matlakala, a passionate web developer continuously improving by building real-world projects.
 
- - 🌐 Portfolio
- - 🐙 GitHub
- - 📫 Email: matlakalakabelo1@gmail.com
+ - Personal Portfolio
+ - [Frontend Mentor Portfolio](https://kpm-frontend-mentor-challange.netlify.app/)
+ - Email: matlakalakabelo1@gmail.com
