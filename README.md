@@ -47,6 +47,7 @@ Each branch typically includes:
 | Recipe Page | recipe-page |	https://kp-recipe-page.netlify.app/ |
 | **Responsive Design Fundamentals** |
 | Product Preview Card Component | product-preview-card-component |	... |
+| Four Card  Feature Section | four-card-feature-section |	... |
 
 More coming soon...
 
